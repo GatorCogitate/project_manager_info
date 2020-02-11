@@ -30,7 +30,7 @@ for their teams.
 Each team should **elect a representative** to work on creating a code base that
 will access data from GitHub to use as a basis for our team features. While
 representatives are working, the teams will discuss features. This should be
-completed by **Thursday, February 13, 2020 by midnight**.
+completed by **2/13/2020 by midnight**.
 
 ## Determine Team Features
 Each team should discuss the questions at hand for their specific team (found in
@@ -50,7 +50,7 @@ submitted to the project manager **by the end of lab, 2/11/2020**.
 - Create GitHub issues to describe the features that each team will create.
 - Create demos to be presented to the customer **during the next lab session, 2/18
 2020**. There should be working code and test cases for the features. A PR for
-each branch should be created by **Monday, February 17 at noon**.
+each branch should be created by **2/17/2020 at noon**.
 
 ## Full Schedule
 

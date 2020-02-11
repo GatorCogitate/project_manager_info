@@ -2,7 +2,7 @@
 
 ## Individual Metrics
 
-- How many comments did an individual make?
+- How many commits did an individual make?
 - How many lines of code did an individual add, modify and delete?
 
 1. Madelyn Kapfhammer (Project Manager)

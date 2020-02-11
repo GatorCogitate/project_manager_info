@@ -59,6 +59,6 @@ Task | Complete By
 Retrieve from GitHub function(s) | 2/13/2020 by midnight
 List of Team Specific Features | End of lab, 2/11/2020
 Team Schedule | End of lab, 2/11/2020
-Working Feature Code with Tests | 2/17/2020 at noon
+Working Feature Code with Tests PR | 2/17/2020 at noon
 
 **Demos will be presented to the customer in lab on 2/18/2020**

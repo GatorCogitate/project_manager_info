@@ -13,9 +13,9 @@ using them in the context of our software engineering project.
 - [FastAPI](https://fastapi.tiangolo.com/)
 
 ## Tool Evaluation 
-This should take less than 10 minutes. Take time for a brief evaluation of each of the tools to answer the following questions:
+This should take less than 10 minutes. Take time for a brief evaluation of each of the tools to answer the following question:
 
-- _Are there any tools that we should **not** include in our Cogitate tool?_
+_Are there any tools that we should **not** include in our Cogitate tool?_
  
 ## Break into Teams
 

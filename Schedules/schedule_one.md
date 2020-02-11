@@ -1,5 +1,8 @@
 # Schedule One - February 11, 2020
 
+## Research Dependencies 
+Each team for their **tool** will create a list of dependencies for their tool. This will be used to create the unified files for the Cogitate tool. During this time teams can also finish organizing their demos if necessary. Project managers will meet to begin creating a Travis CI build system for the project.
+
 ## Presentation of Demos
 Each team will present a demo for the tool that they were assigned, according to
 using them in the context of our software engineering project. 
@@ -52,11 +55,14 @@ submitted to the project manager **by the end of lab, 2/11/2020**.
 2020**. There should be working code and test cases for the features. A PR for
 each branch should be created by **2/17/2020 at noon**.
 
+The procedure for creating a new feature of a project is addressed in the tenth question of `management.md`.
+
 ## Full Schedule
 
 Task | Complete By
 ---- | -----------
-Retrieve from GitHub function(s) | 2/13/2020 by midnight
+List of Dependencies | Beginning of lab, 2/11/2020
+GitHub Function(s) | 2/13/2020 by midnight
 List of Team Specific Features | End of lab, 2/11/2020
 Team Schedule | End of lab, 2/11/2020
 Working Feature Code with Tests PR | 2/17/2020 at noon

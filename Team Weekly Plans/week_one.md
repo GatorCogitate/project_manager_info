@@ -14,6 +14,15 @@ Demo of features | February 18, 2020 @ 2:30
 
 ## Team Interactions
 
+Task | Date to be Completed
+-----| --------------------
+
 ## Testing and Building
 
+Task | Date to be Completed
+-----| --------------------
+
 ## Overall Evaluation
+
+Task | Date to be Completed
+-----| --------------------

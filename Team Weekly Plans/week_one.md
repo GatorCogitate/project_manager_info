@@ -16,6 +16,11 @@ Demo of features | February 18, 2020 @ 2:30
 
 Task | Date to be Completed
 -----| --------------------
+Research the use of command line interfaces | February 17, 2020 @ noon
+Define method for retrieving branches from repo | February 17, 2020 @ noon
+Define method for retirieving usernames from branches | February 17, 2020 @ noon
+Choose between PyGithub or PyDriller for given methods | February 17, 2020 @ noon
+Build a basic command line interface | February 17, 2020 @ noon
 
 ## Testing and Building
 

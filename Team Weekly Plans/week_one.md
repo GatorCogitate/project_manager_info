@@ -26,3 +26,6 @@ Task | Date to be Completed
 
 Task | Date to be Completed
 -----| --------------------
+Establish standards for contribution and other metrics | February 14, 2020
+Implement features based on mock / external repository data | February 16, 2020
+Initiate pull requests and address issues | February 17, 2020

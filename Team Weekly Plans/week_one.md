@@ -1,5 +1,7 @@
 # Week One Team Plans
 
+**Please note that each team will be demoing their features in our lab session on February 18, 2020**
+
 ## Individual Metrics
 
 Task | Date to be Completed
@@ -10,7 +12,6 @@ Commits feature meeting | February 13, 2020 @ 8:30
 Full team meeting | February 15, 2020
 Working features due | February 16, 2020 @ 11:59 pm
 Enhance features / prepare for demos | February 17, 2020
-Demo of features | February 18, 2020 @ 2:30
 
 ## Team Interactions
 
@@ -26,6 +27,12 @@ Build a basic command line interface | February 17, 2020 @ noon
 
 Task | Date to be Completed
 -----| --------------------
+Create issue of of feature one | End of class, February 11, 2020
+Wireframe and feature | End of meeting, February 13, 2020
+Plan out everyone's role | End of meeting, February 13, 2020
+Implementation | End of meeting, February 17, 2020
+Finalize and check bugs | End of meeting, February 17, 2020
+Create demo of feature one | End of meeting, February 17, 2020
 
 ## Overall Evaluation
 

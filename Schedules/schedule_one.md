@@ -1,6 +1,6 @@
 # Schedule One - February 11, 2020
 
-## Research Dependencies 
+## Research Dependencies
 Each team for their **tool** will create a list of dependencies for their tool. This will be used to create the unified files for the Cogitate tool. During this time teams can also finish organizing their demos if necessary. Project managers will meet to begin creating a Travis CI build system for the project.
 
 ## Presentation of Demos

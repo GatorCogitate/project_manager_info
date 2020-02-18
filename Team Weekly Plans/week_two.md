@@ -7,6 +7,7 @@
 Task | Date to be Completed
 -----| --------------------
 Set standard for using PyDriller | 2/20/2020
+Review customer responses on `Issue #27` and comment next steps | 2/20/2020
 Team meeting | 2/20/2020 @ 5:00pm
 Add to existing features | TBD
 Implement new customer features | TBD

@@ -7,7 +7,7 @@
 - Clearly states the purpose of the commit
 - Uses approximately 50 characters or less
 
-## Naming Conventions for GitHub Issues and Branches
+## Naming Conventions for GitHub Issues, Branches and PRs
 
 - Only first letter is capitalized
 - No ending punctuation is used necessary

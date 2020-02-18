@@ -12,7 +12,7 @@
 - Only first letter is capitalized
 - No ending punctuation is necessary
 - Dashes between each word
-- Follows the following format: `Feature-name/the-task-at-hand`
+- Follows the following format: `Team-name/the-task-at-hand`
 - For example: `Individual-metrics/count-commits`
 
 ## PR Review Requirements

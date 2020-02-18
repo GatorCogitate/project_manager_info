@@ -26,4 +26,4 @@
   - 2 project managers
   - 1 TL
   - The software architecture member from your team
-  - 1 team member
+  - 1 other team member (not architect or project manager)

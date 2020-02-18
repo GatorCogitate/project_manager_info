@@ -17,7 +17,12 @@ Extend `Team Interactions` CLI to incorporate `Individual Metrics` features | TB
 
 Task | Date to be Completed
 -----| --------------------
-
+Implement methods from other teams | 2/24/2020 @ noon
+Implement click in place of PyInquirer as CLI | 2/24/2020 @ noon
+Define methods | 2/24/2020 @ noon
+Ensure code uses the universal `.json` file | 2/24/2020 @ noon
+Ensure all code files are using docstrings | 2/24/2020 @ noon
+Ensure files are run with pipenv and all pipenv files are present | 2/24/2020 @ noon
 
 ## Testing and Building
 

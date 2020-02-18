@@ -47,6 +47,7 @@ in the **next lab session on 2/25/2020**.
 
 Task | Complete By
 ---- | -----------
+Team weekly plan | End of lab, 2/18/2020
 Software Architecture team complete universal `.json` file. | TBD
 Each team employs the use of the universal `.json` file | 2/24/2020 @ noon
 Customer changes are made to existing features | 2/24/2020 @ noon

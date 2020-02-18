@@ -35,3 +35,8 @@ Start to implement features in StreamLit | End of meeting, 2/24/2020
 
 Task | Date to be Completed
 -----| --------------------
+Develop feature improvements | 2/21/2020
+Module - Scale CLI | 2/22/2020
+Proper integration of data collection with `.json` | 2/23/2020
+Concept implementation for timely response checking | 2/23/2020
+Initiate pull requests and address issues | 2/24/2020

@@ -23,7 +23,7 @@
   manager)
 - The software architecture member from your team should be assigned as a reviewer
 - Approval before merging is required from:
-  - 2 project managers
+  - 1 project manager
   - 1 TL
   - The software architecture member from your team
   - 1 other team member (not architect or project manager)

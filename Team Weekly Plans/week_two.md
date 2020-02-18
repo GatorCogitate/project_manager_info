@@ -10,7 +10,7 @@ Set standard for using PyDriller | 2/20/2020
 Team meeting | 2/20/2020 @ 5:00pm
 Add to existing features | TBD
 Implement new customer features | TBD
-Extend `Team Evaluation` CLI to incorporate `Individual Metrics` features | TBD
+Extend `Team Interactions` CLI to incorporate `Individual Metrics` features | TBD
 
 ## Team Interactions
 

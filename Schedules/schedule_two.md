@@ -1,4 +1,4 @@
-# Schedule Two - February 17, 2020
+# Schedule Two - February 18, 2020
 
 ## Announcements
 

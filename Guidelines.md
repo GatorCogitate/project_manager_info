@@ -27,3 +27,9 @@
   - 1 TL
   - The software architecture member from your team
   - 1 other team member (not architect or project manager)
+
+# Helpful Links 
+
+[Creating a Pull Request Template for Your Repository](https://help.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
+
+[Configuring Issue Templates for Your Repository](https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository)

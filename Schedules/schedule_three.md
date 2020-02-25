@@ -18,7 +18,7 @@ All `Pipfile`, `Pipfile.lock` and `.gitignore` files existing in each branch/PR 
 
 An explanation of the data file folder system will be given. A folder system has been merged to the `master` branch. This system includes `data`, `src` and `tests` folders. For each branch to recieve this system, `master` should be merged into each branch.
 
-**Please note that the `master` branch can be merged into your branches with the command `git pull download master`.**
+**Please note that the `master` branch can be merged into your branches with the command `git merge master`.**
 
 ### Formatting
 

@@ -28,8 +28,6 @@ Please be sure that code is being formatted in a explicit and descriptive way. D
 
 In order to ensure progress in our `Cogitate` tool, teams will be reassigned to work on different tasks. `Team Interactions` will be working on implementing a **full** command line interface. `Testing and Building` will be working on implementing a **full** web interface. `Overall Evaluation` and `Individual Metrics` will continue working on features, to ensure that all customer requirements are meant, and that features are tested, and documented.
 
-
-
 ## Closing Issues
 
 Please take some time to work within our teams to work on closing [issues](https://github.com/GatorCogitate/cogitate_tool/issues). For our `Cogitate` tool, there are currently 12 issues open, it would be appreciated if we could close those that are now unnecessary.
@@ -50,6 +48,7 @@ Completed, tested, and well documented features that implement the customer's re
 
 Task | Complete By
 ---- | -----------
+Complete and submit team schedules | End of lab, 2/25/2020
 Begin implementing a web interface | 3/3/2020
 Continue implementing a command line interface | 3//2020
 Complete all existing features, with no issues | 3/3/2020

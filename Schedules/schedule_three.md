@@ -42,7 +42,7 @@ A complete CLI that implements all working features is due on **Tuesday, March 1
 
 A complete web interface that implements all working features is due on **Tuesday, March 10, 2020**
 
-Completed, tested, and well documented features that implement the customer's requests are due on **Tuesday, March 10, 2020**
+Completed, tested, and well documented  features that implement the customer's requests are due on **Tuesday, March 10, 2020**
 
 ## Full Schedule
 

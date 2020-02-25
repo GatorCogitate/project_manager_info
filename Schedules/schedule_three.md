@@ -50,7 +50,7 @@ Task | Complete By
 ---- | -----------
 Complete and submit team schedules | End of lab, 2/25/2020
 Begin implementing a web interface | 3/3/2020
-Continue implementing a command line interface | 3//2020
+Continue implementing a command line interface | 3/3/2020
 Complete all existing features, with no issues | 3/3/2020
 Begin and finish implementing all new features with no issues | 3/3/2020
 Begin testing all features | 3/3/2020

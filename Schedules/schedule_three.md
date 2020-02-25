@@ -12,9 +12,13 @@ Work is still being done on the Travis CI file in branch `Improve/travis-ci` the
 
 All `Pipfile`, `Pipfile.lock` and `.gitignore` files existing in each branch/PR have been added to the files in the `New_dependencies` branch. This branch will be merged into `master`. From this step, each team's branch should remove their existing files (as their data has been added to the `New_dependencies` branch) and `master` should be merged into each branch.
 
+**Please note that the `master` branch can be merged into your branches with the command `git pull download master`.**
+
 ### Data File and Folder Systems
 
 An explanation of the data file folder system will be given. A folder system has been merged to the `master` branch. This system includes `data`, `src` and `tests` folders. For each branch to recieve this system, `master` should be merged into each branch.
+
+**Please note that the `master` branch can be merged into your branches with the command `git pull download master`.**
 
 ### Formatting
 
@@ -23,6 +27,8 @@ Please be sure that code is being formatted in a explicit and descriptive way. D
 ### Task Reassignment
 
 In order to ensure progress in our `Cogitate` tool, teams will be reassigned to work on different tasks. `Team Interactions` will be working on implementing a **full** command line interface. `Testing and Building` will be working on implementing a **full** web interface. `Overall Evaluation` and `Individual Metrics` will continue working on features, to ensure that all customer requirements are meant, and that features are tested, and documented.
+
+
 
 ## Closing Issues
 

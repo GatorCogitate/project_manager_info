@@ -26,7 +26,13 @@ Test basic functions of the CLI | 3/2/2020 @ 11:59pm
 
 Task | Date to be Completed
 -----| --------------------
-
+Research StreamLit | End class, 2/25/2020
+Develop plan | End of meeting, 2/26/2020
+Implement example with features already made | End of meeting, 2/26/2020
+Start implementation of web interface | End of meeting, 2/26/2020
+Complete demo for web interface | End of meeting, 3/2/2020
+Fix bugs and errors | End of meeting, 3/2/2020
+Present to class | End of meeting, 3/2/2020
 
 ## Overall Evaluation
 

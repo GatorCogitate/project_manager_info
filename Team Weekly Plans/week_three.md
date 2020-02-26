@@ -1,6 +1,4 @@
-# Week One Team Plans
-
-**Please note that each team will be demoing their features with a command line interface in our lab session on February 25, 2020**
+# Week Three Team Plans
 
 ## Individual Metrics
 
